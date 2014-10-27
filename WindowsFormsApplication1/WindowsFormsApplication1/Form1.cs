@@ -20,11 +20,16 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "nimesh";
+            /
+
+            ////
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Text = "chathuranga";
+            //
+            ////
         }
 
         private void button3_Click(object sender, EventArgs e)
