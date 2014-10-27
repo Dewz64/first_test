@@ -26,5 +26,10 @@ namespace WindowsFormsApplication1
         {
             textBox1.Text = "chathuranga";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "aaaaa";
+        }
     }
 }
